@@ -1,0 +1,120 @@
+// just for reference so i can type them out side by side.
+
+Hydrogen (H): Lightest element, essential for water and life.
+Helium (He): Inert gas, used in balloons and coolants.
+Lithium (Li): Used in batteries, light metal.
+Beryllium (Be): Hard, gray metal used in aerospace.
+Boron (B): Metalloids used in glass and detergents.
+Carbon (C): Basis of organic life, forms diamonds and graphite.
+Nitrogen (N): Major part of Earth's atmosphere.
+Oxygen (O): Essential for respiration, part of water.
+Fluorine (F): Highly reactive, used in toothpaste.
+Neon (Ne): Inert gas, used in signs.
+Sodium (Na): Reactive metal, part of table salt.
+Magnesium (Mg): Light metal used in alloys and fireworks.
+Aluminium (Al): Lightweight, used in packaging and construction.
+Silicon (Si): Semiconductor, used in electronics.
+Phosphorus (P): Essential for DNA, used in fertilizers.
+Sulfur (S): Yellow nonmetal, used in vulcanizing rubber.
+Chlorine (Cl): Disinfectant, used in pools.
+Argon (Ar): Inert gas, used in light bulbs.
+Potassium (K): Essential nutrient, used in fertilizers.
+Calcium (Ca): Essential for bones, used in cement.
+Scandium (Sc): Transition metal, used in aerospace alloys.
+Titanium (Ti): Strong metal, used in aircraft and implants.
+Vanadium (V): Used in steel alloys.
+Chromium (Cr): Used in stainless steel and chrome plating.
+Manganese (Mn): Important in steelmaking.
+Iron (Fe): Core of the Earth's structure, used in construction.
+Cobalt (Co): Used in batteries and magnetic alloys.
+Nickel (Ni): Used in stainless steel and coins.
+Copper (Cu): Conductive, used in wiring and coins.
+Zinc (Zn): Used for galvanizing and in alloys.
+Gallium (Ga): Used in electronics and thermometers.
+Germanium (Ge): Semiconductor, used in electronics.
+Arsenic (As): Used in pesticides and semiconductors.
+Selenium (Se): Used in photocopiers and glass.
+Bromine (Br): Used in flame retardants.
+Krypton (Kr): Inert gas, used in lighting.
+Rubidium (Rb): Used in atomic clocks.
+Strontium (Sr): Used in fireworks and medical imaging.
+Yttrium (Y): Used in LEDs and superconductors.
+Zirconium (Zr): Used in nuclear reactors.
+Niobium (Nb): Used in superconductors.
+Molybdenum (Mo): Used in steel alloys.
+Technetium (Tc): Radioactive, used in medical diagnostics.
+Ruthenium (Ru): Used in electronics and catalysts.
+Rhodium (Rh): Used in catalytic converters.
+Palladium (Pd): Used in electronics and catalysts.
+Silver (Ag): Conductive, used in jewelry and electronics.
+Cadmium (Cd): Used in batteries and pigments.
+Indium (In): Used in touchscreens and solders.
+Tin (Sn): Used in soldering and coatings.
+Antimony (Sb): Used in flame retardants.
+Tellurium (Te): Used in solar panels and alloys.
+Iodine (I): Essential nutrient, used in disinfectants.
+Xenon (Xe): Inert gas, used in lighting and anesthesia.
+Cesium (Cs): Used in atomic clocks and electronics.
+Barium (Ba): Used in medical imaging and fireworks.
+Lanthanum (La): Used in camera lenses and catalysts.
+Cerium (Ce): Used in catalysts and glass polishing.
+Praseodymium (Pr): Used in magnets and glass.
+Neodymium (Nd): Used in powerful magnets.
+Promethium (Pm): Radioactive, used in nuclear batteries.
+Samarium (Sm): Used in magnets and cancer treatment.
+Europium (Eu): Used in phosphorescent and fluorescent applications.
+Gadolinium (Gd): Used in MRI contrast agents.
+Terbium (Tb): Used in phosphors and magnets.
+Dysprosium (Dy): Used in magnets and nuclear reactors.
+Holmium (Ho): Used in magnets and lasers.
+Erbium (Er): Used in lasers and optical fibers.
+Thulium (Tm): Used in medical X-ray devices.
+Ytterbium (Yb): Used in lasers and atomic clocks.
+Lutetium (Lu): Used in PET scanners and catalysts.
+Hafnium (Hf): Used in nuclear reactors and electronics.
+Tantalum (Ta): Used in electronics and surgical implants.
+Tungsten (W): Used in light bulb filaments and cutting tools.
+Rhenium (Re): Used in jet engines and catalysts.
+Osmium (Os): Dense metal, used in alloys.
+Iridium (Ir): Used in electronics and spark plugs.
+Platinum (Pt): Used in jewelry and catalysts.
+Gold (Au): Conductive, used in jewelry and electronics.
+Mercury (Hg): Liquid metal, used in thermometers.
+Thallium (Tl): Used in electronics and glass.
+Lead (Pb): Used in batteries and radiation shielding.
+Bismuth (Bi): Used in pharmaceuticals and cosmetics.
+Polonium (Po): Radioactive, used in anti-static devices.
+Astatine (At): Rare, used in cancer treatment.
+Radon (Rn): Radioactive gas, health hazard.
+Francium (Fr): Highly radioactive, little practical use.
+Radium (Ra): Radioactive, used in cancer treatment.
+Actinium (Ac): Radioactive, used in research.
+Thorium (Th): Used in nuclear reactors.
+Protactinium (Pa): Rare, used in research.
+Uranium (U): Used in nuclear fuel.
+Neptunium (Np): Used in research.
+Plutonium (Pu): Used in nuclear weapons and reactors.
+Americium (Am): Used in smoke detectors.
+Curium (Cm): Used in space missions.
+Berkelium (Bk): Used in research.
+Californium (Cf): Used in neutron sources.
+Einsteinium (Es): Used in research.
+Fermium (Fm): Used in research.
+Mendelevium (Md): Used in research.
+Nobelium (No): Used in research.
+Lawrencium (Lr): Used in research.
+Rutherfordium (Rf): Used in research.
+Dubnium (Db): Used in research.
+Seaborgium (Sg): Used in research.
+Bohrium (Bh): Used in research.
+Hassium (Hs): Used in research.
+Meitnerium (Mt): Used in research.
+Darmstadtium (Ds): Used in research.
+Roentgenium (Rg): Used in research.
+Copernicium (Cn): Used in research.
+Nihonium (Nh): Used in research.
+Flerovium (Fl): Used in research.
+Moscovium (Mc): Used in research.
+Livermorium (Lv): Used in research.
+Tennessine (Ts): Used in research.
+Oganesson (Og): Used in research.

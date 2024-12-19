@@ -1,0 +1,608 @@
+body { 
+    font-family: monospace; 
+    background-color: #313131; 
+    color: #db5b05; 
+    padding: 20px; 
+    
+}
+
+a:link{
+    color:#db5b05;
+}
+a:visited{
+    color: #d35907;
+}
+a:hover{
+    color: darkorange;
+}
+a:active{
+    color: yellow;
+}
+
+header {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    font-family: monospace;
+    background-color: rgb(102, 102, 102);
+    color: rgb(102, 102, 102);
+    
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: #52575a;
+    box-shadow: 2px 2px 6px 1px #52575a;
+    border-radius: 1px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    
+}
+
+img{
+    border-radius: 50%;
+}
+
+nav a{
+    color: #313131;
+    
+}
+
+#about {
+    text-align: center;
+    
+}
+
+#about-text {
+    text-align: center;
+    text-shadow: 2px 2px 2px #313131;
+}
+
+#main {
+    margin: auto;
+    padding: 5px 5px 25px 5px;
+    text-align: center;
+    background-color: rgb(102, 102, 102);
+    max-width: 600px;
+    position: relative;
+    top: 20px;
+    border: #52575a;
+    box-shadow: 2px 2px 6px 1px #52575a;
+    border-radius: 20px;
+    text-shadow: 0.5px 1px 1px black;
+    font-size: 1em;
+
+}
+
+.elements-header{
+    text-align: center;
+}
+
+.elements-table{
+    top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vw;
+    max-width: 300px;
+    border: 1px solid #52575a;
+    padding: 15px;
+    background-color: rgb(82, 81, 81);
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    box-shadow: 2px 2px 6px 1px #313131;
+}
+
+.elements { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 20px;
+    margin: 5px; border: 1px solid #636363;
+    padding: 4px;
+    background-color: rgb(82, 81, 81);
+    border-radius: 4px;
+    font-size: 1em;
+    font-weight: bold; 
+    flex-grow: 2;
+    flex-shrink: 0;
+    min-width: 80px;
+    max-width: 99px;
+    min-height: 30px;
+    max-height: 30px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    box-shadow: 2px 2px 6px 1px #313131;
+    gap: 10px;
+}
+
+/* order the elements by their atomic number */
+.hydrogen{
+    order: 1;
+}
+
+.helium{
+    order: 2;
+}
+
+.lithium{
+    order: 3;
+}
+
+.beryllium{
+    order: 4;
+}
+
+.boron{
+    order: 5;
+}
+
+.carbon{
+    order: 6;
+}
+
+.nitrogen{
+    order: 7;
+}
+
+.oxygen{
+    order: 8;
+}
+
+.fluorine{
+    order: 9;
+}
+
+.neon{
+    order: 10;
+}
+
+.sodium{
+    order: 11;
+}
+
+.magnesium{
+    order: 12;
+}
+
+.aluminium{
+    order: 13;
+}
+
+.silicon{
+    order: 14;
+}
+
+.phosphorus{
+    order: 15;
+}
+
+.sulfur{
+    order: 16;
+}
+
+.chlorine{
+    order: 17;
+}
+
+.argon{
+    order: 18;
+}
+
+.potassium{
+    order: 19;
+}
+
+.calcium{
+    order: 20;
+}
+
+.scandium{
+    order: 21;
+}
+
+.titanium{
+    order: 22;
+}
+
+.vanadium{
+    order: 23;
+}
+
+.chromium{
+    order: 24;
+}
+
+.manganese{
+    order: 25;
+}
+
+.iron{
+    order: 26;
+}
+
+.cobalt{
+    order: 27;
+}
+
+.nickel{
+    order: 28;
+}
+
+.copper{
+    order: 29;
+}
+
+.zinc{
+    order: 30;
+}
+
+.gallium{
+    order: 31;
+}
+
+.germanium{
+    order: 32;
+}
+
+.arsenic{
+    order: 33;
+}
+
+.selenium{
+    order: 34;
+}
+
+.bromine{
+    order: 35;
+}
+
+.krypton{
+    order: 36;
+}
+
+.rubidium{
+    order: 37;
+}
+
+.strontium{
+    order: 38;
+}
+
+.yttrium{
+    order: 39;
+}
+
+.zirconium{
+    order: 40;
+}
+
+.niobium{
+    order: 41;
+}
+
+.molybdenum{
+    order: 42;
+}
+
+.technetium{
+    order: 43;
+}
+
+.ruthenium{
+    order: 44;
+}
+
+.rhodium{
+    order: 45;
+}
+
+.palladium{
+    order: 46;
+}
+
+.silver{
+    order: 47;
+}
+
+.cadmium{
+    order: 48;
+}
+
+.indium{
+    order: 49;
+}
+
+.tin{
+    order: 50;
+}
+
+.antimony{
+    order: 51;
+}
+
+.tellurium{
+    order: 52;
+}
+
+.iodine{
+    order: 53;
+}
+
+.xenon{
+    order: 54;
+}
+
+.cesium{
+    order: 55;
+}
+
+.barium{
+    order: 56;
+}
+
+.lanthanum{
+    order: 57;
+}
+
+.cerium{
+    order: 58;
+}
+
+.praseodymium{
+    order: 59;
+}
+
+.neodymium{
+    order: 60;
+}
+
+.promethium{
+    order: 61;
+}
+
+.samarium{
+    order: 62;
+}
+
+.europium{
+    order: 63;
+}
+
+.gadolinium{
+    order: 64;
+}
+
+.terbium{
+    order: 65;
+}
+
+.dysprosium{
+    order: 66;
+}
+
+.holmium{
+    order: 67;
+}
+
+.erbium{
+    order: 68;
+}
+
+.thulium{
+    order: 69;
+}
+
+.ytterbium{
+    order: 70;
+}
+
+.lutetium{
+    order: 71;
+}
+
+.hafnium{
+    order: 72;
+}
+
+.tantalum{
+    order: 73;
+}
+
+.tungsten{
+    order: 74;
+}
+
+.rhenium{
+    order: 75;
+}
+
+.osmium{
+    order: 76;
+}
+
+.iridium{
+    order: 77;
+}
+
+.platinum{
+    order: 78;
+}
+
+.gold{
+    order: 79;
+}
+
+.mercury{
+    order: 80;
+}
+
+.thallium{
+    order: 81;
+}
+
+.lead{
+    order: 82;
+}
+
+.bismuth{
+    order: 83;
+}
+
+.polonium{
+    order: 84;
+}
+
+.astatine{
+    order: 85;
+}
+
+.radon{
+    order: 86;
+}
+
+.francium{
+    order: 87;
+}
+
+.radium{
+    order: 88;
+}
+
+.actinium{
+    order: 89;
+}
+
+.thorium{
+    order: 90;
+}
+
+.protactinium{
+    order: 91;
+}
+
+.uranium{
+    order: 92;
+}
+
+.neptunium{
+    order: 93;
+}
+
+.plutonium{
+    order: 94;
+}
+
+.americium{
+    order: 95;
+}
+
+.curium{
+    order: 96;
+}
+
+.berkelium{
+    order: 97;
+}
+
+.californium{
+    order: 98;
+}
+
+.einsteinium{
+    order: 99;
+}
+
+.fermium{
+    order: 100;
+}
+
+.mendelevium{
+    order: 101;
+}
+
+.nobelium{
+    order: 102;
+}
+
+.lawrencium{
+    order: 103;
+}
+
+.rutherfordium{
+    order: 104;
+}
+
+.dubnium{
+    order: 105;
+}
+
+.seaborgium{
+    order: 106;
+}
+
+.bohrium{
+    order: 107;
+}
+
+.hassium{
+    order: 108;
+}
+
+.darmstadtium{
+    order: 109;
+}
+
+.roentgenium{
+    order: 110;
+}
+
+.copernicium{
+    order: 111;
+}
+
+.nihonium{
+    order: 112;
+}
+
+.flerovium{
+    order: 113;
+}
+
+.moscovium{
+    order: 114;
+}
+
+.livermorium{
+    order: 115;
+}
+
+.tennessine{
+    order: 116;
+}
+
+.oganesson{
+    order: 117;
+}
+
+#pe-img { 
+    display: none;
+    max-width: 100%;
+    border-radius: 8px; 
+}
+
+@media (max-width: 768px) {
+    .elements { width: 50px; height: 50px; font-size: 1em; } 
+}
+@media (max-width: 480px) { 
+    .elements-table { display: none; } 
+    #pe-img { display: block;
+        margin-top: 20px;
+        }
+    #main {display: none;} 
+} 
